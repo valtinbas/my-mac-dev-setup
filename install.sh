@@ -26,7 +26,7 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 
 ### --- Core CLI Tools --- ###
 echo "🔧 Installing CLI tools..."
-brew install bat exa htop tree wget curl git gh zx mas
+brew install bat htop tree wget curl git gh zx mas
 
 ### --- Terminal Tools --- ###
 echo "🖥️ Installing terminal tools..."
