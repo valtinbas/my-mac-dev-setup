@@ -1,0 +1,13 @@
+### .gitignore ###
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Node.js
+node_modules/
+dist/
+.env
+
+# VSCode
+.vscode/

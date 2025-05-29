@@ -1,0 +1,13 @@
+### .gitconfig ###
+[user]
+  name = Volkan ALTINBAŞ
+  email = contact@volkanaltinbas.com
+[color]
+  ui = auto
+[core]
+  editor = code --wait
+[alias]
+  co = checkout
+  br = branch
+  ci = commit
+  st = status
